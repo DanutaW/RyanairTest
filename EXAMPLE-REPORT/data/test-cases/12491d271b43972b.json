@@ -1,0 +1,46 @@
+{
+  "uid" : "12491d271b43972b",
+  "name" : "test",
+  "fullName" : "BookingTest.test",
+  "historyId" : "83d42369c90fda641407eb94bbc7b735",
+  "time" : {
+    "start" : 1559857521865,
+    "stop" : 1559857596850,
+    "duration" : 74985
+  },
+  "status" : "passed",
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "BookingTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "test"
+  }, {
+    "name" : "suite",
+    "value" : "BookingTest"
+  }, {
+    "name" : "host",
+    "value" : "dw"
+  }, {
+    "name" : "thread",
+    "value" : "23932@dw.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ ]
+  }
+}
